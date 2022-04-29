@@ -13,7 +13,7 @@ fun dt_1() {
 
 /* 2. DataTypes/Task2.kt 
    On the console, display the name of the type that can be combined with any other type if it goes first. */
-fun main() {
+fun dt_2() {
     val int: Int = 10
     val double: Double = 1.1
     val boolean: Boolean = false
